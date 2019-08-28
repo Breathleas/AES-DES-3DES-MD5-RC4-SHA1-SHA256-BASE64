@@ -1,0 +1,21 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "string": "cpp",
+        "stack": "cpp",
+        "fstream": "cpp",
+        "vector": "cpp",
+        "[cpp]": {
+            "editor.quickSuggestions": true
+        },
+        "[c]": {
+            "editor.quickSuggestions": true
+        },
+        "xlocale": "cpp"
+    },
+    "files.autoGuessEncoding": true,
+    "C_Cpp.errorSquiggles": "Disabled",
+    "editor.detectIndentation": false,
+    "cmake.configureOnOpen": true,
+}

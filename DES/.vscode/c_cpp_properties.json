@@ -1,0 +1,45 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "D:\\sdk\\mingw\\mingw64\\x86_64-w64-mingw32\\include\\*",
+                "D:\\sdk\\mingw\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\7.3.0\\include\\*",
+                "D:\\sdk\\mingw\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\7.3.0\\include\\c++\\*",
+                "D:\\sdk\\mingw\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\7.3.0\\include\\c++\\x86_64-w64-mingw32\\*",
+                "D:\\sdk\\mingw\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\7.3.0\\include\\bits\\*",
+                "C:\\Program Files\\Java\\jdk1.8.0_77\\include\\*",
+                "C:\\Program Files\\Java\\jdk1.8.0_77\\include\\win32\\*",
+                "${workspaceRoot}",
+                "${workspaceRoot}/src"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "D:\\sdk\\mingw\\mingw64\\x86_64-w64-mingw32\\include\\*",
+                    "D:\\sdk\\mingw\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\7.3.0\\include\\*",
+                    "D:\\sdk\\mingw\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\7.3.0\\include\\c++\\*",
+                    "D:\\sdk\\mingw\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\7.3.0\\include\\c++\\x86_64-w64-mingw32\\*",
+                    "D:\\sdk\\mingw\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\7.3.0\\include\\bits\\*",
+                    "C:\\Program Files\\Java\\jdk1.8.0_77\\include\\*",
+                    "C:\\Program Files\\Java\\jdk1.8.0_77\\include\\win32\\*",
+                    "${workspaceRoot}",
+                    "${workspaceRoot}/src"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "configurationProvider": "vector-of-bool.cmake-tools",
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json"
+        }
+    ],
+    "version": 4
+}
